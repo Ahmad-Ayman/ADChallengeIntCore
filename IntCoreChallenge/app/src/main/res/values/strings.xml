@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IntCoreChallenge</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">vUzH6UQJ6zY3mx6yIEbiHuaQT</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">Xfo2Ipytk91QZ5OPkIEL0m0eKkLpdDmbearywuo3o1OPKZnVCM</string>
 </resources>
